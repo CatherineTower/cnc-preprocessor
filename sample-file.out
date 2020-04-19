@@ -1,0 +1,7 @@
+(length = 50)
+(width = 25)
+
+some text {length} and some more{width} text
+Hope this shit works
+This line also has no variables
+this line {length} has {width} a bunch{length}{width} of variables
